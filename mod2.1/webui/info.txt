@@ -1,0 +1,3 @@
+﻿На основе веб-интерфейса
+WEBUI_81.100.33.03.03_CPE-sec.BIN  SHA1 d36e4a2f87b920a71e4fe57fc82c27e0513e1fdd
+(B525sWEBUI-V800R001B100D33SP03C03_Client Software_general_05016FNS)
