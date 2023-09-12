@@ -17,7 +17,7 @@
         packages.balong-usbdload = pkgs.callPackage ./nix/balong-usbdload.nix { };
         checks = config.packages;
 
-        devShells.default = pkgs.mkShell { buildInputs = [ self'.packages.balongflash self'.packages.balong-usbdload pkgs.netcat ]; };
+        devShells.default = pkgs.mkShell { buildInputs = [ self'.packages.balongflash self'.packages.balong-usbdload pkgs.netcat pkgs.android-tools ]; };
       };
 
     };
